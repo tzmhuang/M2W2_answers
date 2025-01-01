@@ -1,40 +1,50 @@
-**Step 1: Final Answer**
+Here are three credit cards that meet your specified criteria:
 
-Here are three travel credit cards that offer no foreign transaction fees, at least 2x points on travel purchases, and a sign-up bonus of at least 50,000 points:
+**1. Chase Sapphire Reserve®**
 
-1. **Chase Sapphire Preferred® Card**
-   - **Sign-Up Bonus:** Earn 60,000 bonus points after spending $4,000 on purchases in the first 3 months from account opening.
-   - **Rewards Rate:** 5x points on travel purchased through Chase Travel℠, 3x points on dining, and 2x points on all other travel purchases.
-   - **Foreign Transaction Fees:** None.
-   - **Annual Fee:** $95.
+- **Rewards**: Earn 5x total points on flights and 10x total points on hotels and car rentals when you purchase travel through Chase Travel℠ after the first $300 is spent on travel purchases annually. 
 
-2. **Capital One Venture Rewards Credit Card**
-   - **Sign-Up Bonus:** Earn 75,000 bonus miles after spending $4,000 on purchases within the first 3 months from account opening.
-   - **Rewards Rate:** 2x miles on every purchase, every day.
-   - **Foreign Transaction Fees:** None.
-   - **Annual Fee:** $95.
+- **Sign-up Bonus**: Earn 60,000 bonus points after spending $4,000 on purchases in the first 3 months from account opening. 
 
-3. **Citi Strata Premier℠ Card**
-   - **Sign-Up Bonus:** Earn 70,000 ThankYou® Points after spending $4,000 on purchases within the first 3 months of account opening.
-   - **Rewards Rate:** 3x points on dining, gas stations, EV charging, groceries, airfare, and hotels.
-   - **Foreign Transaction Fees:** None.
-   - **Annual Fee:** $95.
+- **Foreign Transaction Fees**: None. 
 
-**Step 2: Provenance**
+- **Car Rental Insurance**: Includes primary car rental insurance. 
 
-```json
+**2. Capital One Venture X Rewards Credit Card**
+
+- **Rewards**: Earn 10x miles on hotels and rental cars booked through Capital One Travel, 5x miles on flights booked through Capital One Travel, and 2x miles on all other purchases. 
+
+- **Sign-up Bonus**: Earn 75,000 bonus miles when you spend $4,000 on purchases in the first 3 months from account opening. 
+
+- **Foreign Transaction Fees**: None. 
+
+- **Car Rental Insurance**: Offers primary rental car insurance. 
+
+**3. Citi Strata Premier℠ Card**
+
+- **Rewards**: Earn 10x points on hotels, car rentals, and attractions booked on CitiTravel.com; 3x points per $1 spent on air travel and other hotel purchases, at restaurants, supermarkets, gas, and EV charging stations; 1x point per $1 spent on all other purchases. 
+
+- **Sign-up Bonus**: Earn 75,000 bonus ThankYou® Points after spending $4,000 in the first 3 months of account opening. 
+
+- **Foreign Transaction Fees**: None. 
+
+- **Car Rental Insurance**: Includes primary car rental insurance. 
+
+These cards offer robust rewards on travel-related purchases, substantial sign-up bonuses, no foreign transaction fees, and primary car rental insurance, aligning well with your specified requirements.
+
+**Provenance:**
+
 [
   {
-    "url": "https://www.fool.com/money/credit-cards/best-no-foreign-transaction-fee-credit-card/",
-    "description": "This source provides information on the Chase Sapphire Preferred® Card, including its 60,000 bonus points offer, 5x points on travel purchased through Chase Travel℠, 3x points on dining, 2x points on all other travel purchases, and no foreign transaction fees."
-  },
-  {
-    "url": "https://www.newsweek.com/vault/credit-cards/best-no-foreign-transaction-fee-credit-cards/",
-    "description": "This source details the Capital One Venture Rewards Credit Card, highlighting its 75,000 bonus miles offer, 2x miles on every purchase, and no foreign transaction fees."
-  },
-  {
     "url": "https://upgradedpoints.com/credit-cards/best-no-foreign-transaction-fee-credit-cards/",
-    "description": "This source discusses the Citi Strata Premier℠ Card, noting its 70,000 ThankYou® Points bonus, 3x points on dining, gas stations, EV charging, groceries, airfare, and hotels, and no foreign transaction fees."
+    "description": "Details on Chase Sapphire Reserve® rewards, sign-up bonus, foreign transaction fees, and car rental insurance."
+  },
+  {
+    "url": "https://www.forbes.com/advisor/credit-cards/best/no-foreign-transaction-fee/",
+    "description": "Information on Capital One Venture X Rewards Credit Card rewards, sign-up bonus, foreign transaction fees, and car rental insurance."
+  },
+  {
+    "url": "https://awardwallet.com/blog/credit-cards-with-no-foreign-transaction-fees/",
+    "description": "Details on Citi Strata Premier℠ Card rewards, sign-up bonus, foreign transaction fees, and car rental insurance."
   }
-]
-``` 
+] 
