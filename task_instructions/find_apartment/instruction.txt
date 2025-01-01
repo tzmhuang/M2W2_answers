@@ -1,0 +1,1 @@
+Find three apartment buildings in Ohio that offer one-bedroom units costing no more than $1300 per month. The apartments should be within 20 minutes' drive from the Ohio State University, and have parking and elevator access. For each apartment, provide a link to its official webpage, along with its address and phone number.

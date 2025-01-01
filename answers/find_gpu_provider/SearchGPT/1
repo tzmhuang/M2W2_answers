@@ -1,0 +1,59 @@
+When selecting a cloud GPU provider for your research lab's model training needs, it's essential to consider the types of GPUs available, their hourly costs, and the specific requirements of your workloads. Here's a comparison of three notable providers:
+
+**1. RunPod**
+- **Available GPUs and Pricing:**
+  - NVIDIA RTX 3070: Starting at $0.13 per hour.
+  - NVIDIA A4000: Starting at $0.15 per hour.
+  - NVIDIA A4500: Starting at $0.19 per hour.
+  - NVIDIA A5000: Starting at $0.22 per hour.
+  - NVIDIA A30: Starting at $0.22 per hour.
+  - NVIDIA RTX 4090: Starting at $0.44 per hour.
+- **Resource Information:** [RunPod GPU Resources](https://getdeploying.com/reference/cloud-gpu)
+- **Pricing Details:** [RunPod Pricing](https://getdeploying.com/reference/cloud-gpu)
+
+**2. DataCrunch**
+- **Available GPUs and Pricing:**
+  - NVIDIA V100 16GB: $0.39 per hour.
+  - NVIDIA RTX A6000 48GB: $1.01 per hour.
+  - NVIDIA RTX 6000 Ada 48GB: $1.19 per hour.
+  - NVIDIA A100 SXM4 40GB: $1.29 per hour.
+  - NVIDIA L40S: $1.36 per hour.
+  - NVIDIA A100 SXM4 80GB: $1.89 per hour.
+  - NVIDIA H100 SXM5 80GB: $2.65 per hour.
+- **Resource Information:** [DataCrunch GPU Resources](https://datacrunch.io/blog/cloud-gpu-pricing-comparison-in-2024)
+- **Pricing Details:** [DataCrunch Pricing](https://datacrunch.io/blog/cloud-gpu-pricing-comparison-in-2024)
+
+**3. Paperspace**
+- **Available GPUs and Pricing:**
+  - NVIDIA Quadro M4000: $0.45 per hour.
+  - NVIDIA Quadro P4000: $0.51 per hour.
+  - NVIDIA Quadro P5000: $0.78 per hour.
+  - NVIDIA Quadro P6000: $1.10 per hour.
+  - NVIDIA Quadro RTX 4000: $0.37 per hour.
+  - NVIDIA Quadro RTX 5000: $0.82 per hour.
+  - NVIDIA RTX A4000: $0.40 per hour.
+  - NVIDIA RTX A5000: $0.43 per hour.
+  - NVIDIA RTX A6000: $1.89 per hour.
+  - NVIDIA V100 16GB: $0.39 per hour.
+  - NVIDIA V100 32GB: $2.30 per hour.
+  - NVIDIA A100 40GB: $3.09 per hour.
+- **Resource Information:** [Paperspace GPU Resources](https://www.paperspace.com/gpu-cloud-comparison)
+- **Pricing Details:** [Paperspace Pricing](https://www.paperspace.com/gpu-cloud-comparison)
+
+Please note that prices can vary based on factors such as region, instance configuration, and demand. It's advisable to consult the providers' official pricing pages for the most current information.
+
+Provenance:
+[
+  {
+    "url": "https://getdeploying.com/reference/cloud-gpu",
+    "description": "Provides a comprehensive list of cloud GPU providers, their available GPU models, and associated pricing. Specific details about RunPod's offerings are included."
+  },
+  {
+    "url": "https://datacrunch.io/blog/cloud-gpu-pricing-comparison-in-2024",
+    "description": "Offers an in-depth comparison of cloud GPU pricing across various providers, including detailed information on DataCrunch's GPU models and pricing."
+  },
+  {
+    "url": "https://www.paperspace.com/gpu-cloud-comparison",
+    "description": "Presents a comparison of GPU cloud providers, highlighting the GPUs available through Paperspace and their respective hourly costs."
+  }
+] 

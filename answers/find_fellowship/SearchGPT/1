@@ -1,0 +1,65 @@
+**Step 1: Final Answer**
+
+Here are five fellowship programs for doctoral students in computer science:
+
+1. **National Science Foundation Graduate Research Fellowship Program (NSF-GRFP)**
+   - **Annual Stipend:** $37,000
+   - **Program Duration:** Three years of support over a five-year fellowship period
+   - **Eligibility Criteria:** U.S. citizens, nationals, or permanent residents pursuing research-based doctoral degrees in eligible STEM fields, typically in their first or second year of graduate study
+   - **Application Information:** [NSF-GRFP Official Page](https://www.nsfgrfp.org/)
+   - **Application Deadline:** Varies by field; typically in late October
+
+2. **Department of Defense National Defense Science and Engineering Graduate (NDSEG) Fellowship**
+   - **Annual Stipend:** $40,800
+   - **Program Duration:** Three years
+   - **Eligibility Criteria:** U.S. citizens or nationals enrolled in or accepted to a doctoral program in science or engineering disciplines of interest to the Department of Defense
+   - **Application Information:** [NDSEG Fellowship Official Page](https://ndseg.org/)
+   - **Application Deadline:** Typically in early December
+
+3. **Hertz Foundation Graduate Fellowship**
+   - **Annual Stipend:** $34,000
+   - **Program Duration:** Up to five years
+   - **Eligibility Criteria:** U.S. citizens or permanent residents pursuing a Ph.D. in applied physical and biological sciences, mathematics, or engineering
+   - **Application Information:** [Hertz Foundation Official Page](https://www.hertzfoundation.org/)
+   - **Application Deadline:** Typically in late October
+
+4. **Google PhD Fellowship**
+   - **Annual Stipend:** $34,000
+   - **Program Duration:** Two years, with possible extension to three
+   - **Eligibility Criteria:** Full-time graduate students pursuing a Ph.D. in computer science or related fields; must have completed coursework by the time the fellowship begins
+   - **Application Information:** [Google PhD Fellowship Program](https://research.google/programs/graduate-fellowships/)
+   - **Application Deadline:** Varies by region; typically in May
+
+5. **DOE Computational Science Graduate Fellowship (CSGF)**
+   - **Annual Stipend:** $45,000
+   - **Program Duration:** Four years
+   - **Eligibility Criteria:** U.S. citizens or permanent residents pursuing doctoral degrees in fields of study that use high-performance computing to solve complex science and engineering problems
+   - **Application Information:** [DOE CSGF Official Page](https://www.krellinst.org/csgf/)
+   - **Application Deadline:** Typically in mid-January
+
+**Step 2: Provenance**
+
+```json
+[
+  {
+    "url": "https://www.nsfgrfp.org/",
+    "description": "Provides details on the NSF-GRFP, including stipend amount, program duration, eligibility criteria, and application deadlines."
+  },
+  {
+    "url": "https://ndseg.org/",
+    "description": "Offers information on the NDSEG Fellowship, covering stipend details, program length, eligibility requirements, and application timelines."
+  },
+  {
+    "url": "https://www.hertzfoundation.org/",
+    "description": "Describes the Hertz Foundation Graduate Fellowship, including stipend amount, duration, eligibility, and application deadlines."
+  },
+  {
+    "url": "https://research.google/programs/graduate-fellowships/",
+    "description": "Details the Google PhD Fellowship, including stipend information, program duration, eligibility criteria, and application deadlines."
+  },
+  {
+    "url": "https://www.krellinst.org/csgf/",
+    "description": "Provides information on the DOE Computational Science Graduate Fellowship, including stipend amount, program duration, eligibility requirements, and application deadlines."
+  }
+]
+``` 

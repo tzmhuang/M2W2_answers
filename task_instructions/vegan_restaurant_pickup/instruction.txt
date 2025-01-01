@@ -1,0 +1,1 @@
+Locate three restaurants with vegan menus within a 20-minute walk of 50 Lexington Ave, New York, NY. For each restaurant, include its address and a URL to its online pickup ordering page, whether it's on Uber Eats, DoorDash, or another online ordering platform.

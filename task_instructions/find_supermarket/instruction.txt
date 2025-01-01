@@ -1,0 +1,1 @@
+I live at 1600 W Lane Ave, Upper Arlington, OH, and I want to buy ribeye steaks for dinner. List 3 supermarkets or grocery stores that are within 10-minute driving distance from my address. For each store, provide the address, per pound price of ribeye steak, as well as the time it takes to drive there.

@@ -1,0 +1,71 @@
+Here are three highly acclaimed science fiction movies, each with an IMDb rating above 8.0 or a Rotten Tomatoes Tomatometer score above 70%.
+
+**1. "Inception"**
+
+- **Director:** Christopher Nolan
+- **Release Date:** July 16, 2010
+- **Plot Summary:** "Inception" follows Dom Cobb, a thief who specializes in infiltrating people's dreams to steal secrets. He's offered a chance to have his criminal record erased by performing an almost impossible task: planting an idea into someone's subconscious, known as "inception."
+- **IMDb Rating:** 8.8/10
+- **Positive Review:** [Roger Ebert's Review](https://www.rogerebert.com/reviews/inception-2010)
+- **Negative Review:** [Slant Magazine's Review](https://www.slantmagazine.com/film/inception/)
+
+**2. "The Matrix"**
+
+- **Directors:** Lana Wachowski, Lilly Wachowski
+- **Release Date:** March 31, 1999
+- **Plot Summary:** "The Matrix" centers on Neo, a hacker who discovers that reality as he knows it is a simulation controlled by intelligent machines. He joins a group of rebels to fight against the machines and uncover the truth.
+- **IMDb Rating:** 8.7/10
+- **Positive Review:** [Empire's Review](https://www.empireonline.com/movies/reviews/matrix-review/)
+- **Negative Review:** [The Washington Post's Review](https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/matrixhunter.htm)
+
+**3. "Blade Runner 2049"**
+
+- **Director:** Denis Villeneuve
+- **Release Date:** October 6, 2017
+- **Plot Summary:** Set 30 years after the original "Blade Runner," Officer K, a new blade runner, unearths a long-hidden secret that could plunge society into chaos. His discovery leads him on a quest to find Rick Deckard, a former blade runner who has been missing for decades.
+- **Rotten Tomatoes Tomatometer:** 88%
+- **Positive Review:** [The Guardian's Review](https://www.theguardian.com/film/2017/oct/05/blade-runner-2049-review-harrison-ford-ryan-gosling)
+- **Negative Review:** [The New Yorker's Review](https://www.newyorker.com/culture/richard-brody/blade-runner-2049-reviewed)
+
+These films are celebrated for their innovative storytelling and significant impact on the science fiction genre.
+
+**Provenance:**
+
+[
+  {
+    "url": "https://www.imdb.com/title/tt1375666/",
+    "description": "IMDb page for 'Inception' providing details on its rating, director, and release date."
+  },
+  {
+    "url": "https://www.imdb.com/title/tt0133093/",
+    "description": "IMDb page for 'The Matrix' with information on its rating, directors, and release date."
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/blade_runner_2049",
+    "description": "Rotten Tomatoes page for 'Blade Runner 2049' showing its Tomatometer score and reviews."
+  },
+  {
+    "url": "https://www.rogerebert.com/reviews/inception-2010",
+    "description": "Roger Ebert's positive review of 'Inception'."
+  },
+  {
+    "url": "https://www.slantmagazine.com/film/inception/",
+    "description": "Slant Magazine's negative review of 'Inception'."
+  },
+  {
+    "url": "https://www.empireonline.com/movies/reviews/matrix-review/",
+    "description": "Empire's positive review of 'The Matrix'."
+  },
+  {
+    "url": "https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/matrixhunter.htm",
+    "description": "The Washington Post's negative review of 'The Matrix'."
+  },
+  {
+    "url": "https://www.theguardian.com/film/2017/oct/05/blade-runner-2049-review-harrison-ford-ryan-gosling",
+    "description": "The Guardian's positive review of 'Blade Runner 2049'."
+  },
+  {
+    "url": "https://www.newyorker.com/culture/richard-brody/blade-runner-2049-reviewed",
+    "description": "The New Yorker's negative review of 'Blade Runner 2049'."
+  }
+] 

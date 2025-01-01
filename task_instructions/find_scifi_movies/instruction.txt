@@ -1,0 +1,1 @@
+Find three science fiction movies with an average rating above 8.0 on IMDB or above 70% on Rotten Tomatoes Tomatometer. For each movie, list their directors, release dates, and main plot points. Additionally, for each movie, list their IMDB rating or Rotten Tomatoes Tomatometer, and include links to one positive and one negative review on IMDB or Rotten Tomatoes.

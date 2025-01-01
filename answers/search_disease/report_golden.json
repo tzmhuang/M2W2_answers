@@ -1,0 +1,32 @@
+{
+    "facts": [
+        {
+            "id": 1,
+            "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/influenza/influenza-flu-in-children",
+            "fact_text": "Influenza in children often presents with high fever, body aches, Headache, cough, sore throat, runny or stuffy nose, tiredness, and sometimes vomiting or diarrhea."
+        },
+        {
+            "id": 2,
+            "url": "https://www.cdc.gov/rsv/infants-young-children/index.html",
+            "fact_text": "Respiratory Syncytial Virus (RSV) symptoms in infants include runny nose, decreased appetite, cough, irritability, decreased activity, apnea, bronchiolitis, pneumonia."
+        },
+        {
+            "id": 3,
+            "url": "https://www.cdc.gov/hand-foot-mouth/signs-symptoms/index.html",
+            "fact_text": "Hand, Foot, and Mouth Disease typically causes fever, reduced appetite, sore throat, and a rash on the hands, feet, mouth, and sometimes buttocks."
+        },
+        {
+            "id": 4,
+            "url": "https://www.mayoclinic.org/diseases-conditions/measles/symptoms-causes/syc-20374857",
+            "fact_text": "Measles symptoms include high fever, dry cough, runny nose, sore throat, red eyes, tiny white spots with bluish-white centers on a red background inside the mouth, red blotchy skin rash starting on the face and spreading downward."
+        },
+        {
+            "id": 5,
+            "url": "https://www.chop.edu/conditions-diseases/pertussis-whooping-cough",
+            "fact_text": "Whooping Cough (Pertussis) begins with cold-like symptoms such as runny nose, sneezing, mild cough, low-grade fever, severe coughing spells, whooping sound when breathing in, vomiting, gasping for air, apnea, turning red or purple during coughing fits"
+        }
+    ],
+    "final_answer": "Your child's symptoms of fever, cough, and irritability could be indicative of several common illnesses. These include:\n\nInfluenza: Often presents with high fever, body aches, headache, sore throat, runny or stuffy nose, cough, tiredness, and sometimes vomiting or diarrhea.\n\nRespiratory Syncytial Virus (RSV): Symptoms in infants include runny nose, decreased appetite, cough, irritability, decreased activity, apnea, and potential complications like bronchiolitis or pneumonia.\n\nHand, Foot, and Mouth Disease: Typically causes fever, reduced appetite, sore throat, and a rash on the hands, feet, mouth, and sometimes buttocks.\n\nMeasles: Symptoms include high fever, dry cough, runny nose, sore throat, red eyes, tiny white spots with bluish-white centers in the mouth, and a red blotchy skin rash that starts on the face and spreads downward.\n\nWhooping Cough (Pertussis): Begins with cold-like symptoms such as runny nose, sneezing, mild cough, low-grade fever, and progresses to severe coughing spells with a characteristic whooping sound, gasping for air, and possible vomiting.\n\nIt's important to consult a pediatrician to determine the exact cause and appropriate treatment for your child's symptoms."
+}
+
+

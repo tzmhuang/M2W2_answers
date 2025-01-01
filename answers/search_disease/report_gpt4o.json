@@ -1,0 +1,30 @@
+{
+    "facts": [
+        {
+            "id": 1,
+            "url": "https://www.mayoclinic.org/diseases-conditions/flu-in-children/symptoms-causes/syc-20352056",
+            "fact_text": "Influenza in children often presents with high fever, body aches, fatigue, cough, sore throat, runny or stuffy nose, and sometimes vomiting or diarrhea."
+        },
+        {
+            "id": 2,
+            "url": "https://www.cdc.gov/rsv/high-risk/infants-young-children.html",
+            "fact_text": "Respiratory Syncytial Virus (RSV) symptoms in infants include runny nose, decrease in appetite, coughing, sneezing, fever, and wheezing."
+        },
+        {
+            "id": 3,
+            "url": "https://www.cdc.gov/hand-foot-mouth/about/signs-symptoms.html",
+            "fact_text": "Hand, Foot, and Mouth Disease typically causes fever, reduced appetite, sore throat, and a rash on the hands, feet, mouth, and sometimes buttocks."
+        },
+        {
+            "id": 4,
+            "url": "https://www.cdc.gov/measles/symptoms/index.html",
+            "fact_text": "Measles symptoms include high fever, cough, runny nose, red eyes, and a characteristic red rash that usually starts on the face and spreads."
+        },
+        {
+            "id": 5,
+            "url": "https://www.cdc.gov/pertussis/about/signs-symptoms.html",
+            "fact_text": "Whooping Cough (Pertussis) begins with cold-like symptoms such as runny nose, low-grade fever, and mild cough, progressing to severe coughing fits."
+        }
+    ],
+    "final_answer": "Your 1-year-old's symptoms of fever, poor appetite, and disrupted sleep could be indicative of several common illnesses. These include:\n\n1. **Influenza (Flu):** Often presents with high fever, body aches, fatigue, cough, sore throat, runny or stuffy nose, and sometimes vomiting or diarrhea.\n\n2. **Respiratory Syncytial Virus (RSV):** Symptoms in infants include runny nose, decrease in appetite, coughing, sneezing, fever, and wheezing.\n\n3. **Hand, Foot, and Mouth Disease:** Typically causes fever, reduced appetite, sore throat, and a rash on the hands, feet, mouth, and sometimes buttocks.\n\n4. **Measles:** Symptoms include high fever, cough, runny nose, red eyes, and a characteristic red rash that usually starts on the face and spreads.\n\n5. **Whooping Cough (Pertussis):** Begins with cold-like symptoms such as runny nose, low-grade fever, and mild cough, progressing to severe coughing fits.\n\nIt's important to consult a pediatrician to determine the exact cause and appropriate treatment for your child's symptoms."
+}

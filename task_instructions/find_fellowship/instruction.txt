@@ -1,0 +1,1 @@
+Curate a list of 5 fellowship programs for doctoral students in computer science. For each program, state the amount of annual stipend provided, program duration, application eligibility criteria, link to application information page, and application deadline.

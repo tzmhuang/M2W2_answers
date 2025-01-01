@@ -1,0 +1,1 @@
+Curate a list of 5 music albums released in the last year by Grammy-nominated artists and is availble on Spotify. For each album, include the artist's name, album genre, and a link to the album page on Spotify.

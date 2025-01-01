@@ -1,0 +1,2 @@
+Find me at least 3 movies that are suitable for children below the age of 15, and are going to be on show in movie theaters in Boston, Massachusetts until end of next month. 
+For each movie, provide the film rating, the last showing date in Boston,  a brief intro on what the movie is about, a link to their trailers, and a movie theaters in Boston that shows the movie until end of next month.

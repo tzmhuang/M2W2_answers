@@ -1,0 +1,1 @@
+Curate a list of 4 cocktail recipes that is made with whiskey and fruits or fruit flavored ingredients. For each cocktail, include its name, list of ingredients, and a link to the recipe.

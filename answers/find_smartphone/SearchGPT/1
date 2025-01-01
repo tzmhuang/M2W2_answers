@@ -1,0 +1,66 @@
+In 2023, both Apple and Samsung released notable smartphones with varying specifications and user feedback. Here's a comparison of their key models:
+
+**Apple iPhone 15**
+
+- **Screen Size:** 6.1 inches
+- **RAM:** 6 GB
+- **Battery Size:** 3,279 mAh
+- **Price:** Starting at $799
+
+**User Reviews:**
+
+- **Source 1:** Users appreciate the iPhone 15's camera quality and integration within Apple's ecosystem, though some note the lack of significant design changes. 
+- **Source 2:** The iPhone 15 is praised for its performance and display, but some users express concerns over battery life compared to competitors. 
+
+**Samsung Galaxy S23**
+
+- **Screen Size:** 6.1 inches
+- **RAM:** 8 GB
+- **Battery Size:** 3,900 mAh
+- **Price:** Starting at $799.99
+
+**User Reviews:**
+
+- **Source 1:** The Galaxy S23 is commended for its display and performance, though some users mention the battery life could be improved. 
+- **Source 2:** Users highlight the Galaxy S23's camera capabilities and design, but some feel it lacks innovation compared to previous models. 
+
+**Samsung Galaxy S23 Ultra**
+
+- **Screen Size:** 6.8 inches
+- **RAM:** 12 GB
+- **Battery Size:** 5,000 mAh
+- **Price:** Starting at $1,199.99
+
+**User Reviews:**
+
+- **Source 1:** The Galaxy S23 Ultra is lauded for its 200MP camera and performance, though some users find it bulky. 
+- **Source 2:** Users praise the S23 Ultra's display and battery life, but some note its high price point. 
+
+These models offer a range of features catering to different user preferences, with each receiving varied feedback on aspects like design, performance, and value for money.
+
+**Provenance:**
+
+```json
+[
+  {
+    "url": "https://www.gsmarena.com/compare.php3?idPhone1=12082&idPhone2=12559",
+    "description": "Comparison of Samsung Galaxy S23 and Apple iPhone 15 specifications, including screen size, RAM, battery size, and price."
+  },
+  {
+    "url": "https://www.phonearena.com/phones/Samsung-Galaxy-S23_id11999",
+    "description": "Detailed specifications and user reviews of the Samsung Galaxy S23, highlighting its display, performance, and battery life."
+  },
+  {
+    "url": "https://www.techradar.com/news/samsung-galaxy-s23-ultra",
+    "description": "Comprehensive review of the Samsung Galaxy S23 Ultra, discussing its features, performance, and user feedback."
+  },
+  {
+    "url": "https://www.tomsguide.com/news/toms-guide-awards-2023-phones",
+    "description": "User reviews and analysis of the Samsung Galaxy S23 Ultra, focusing on its camera capabilities and overall performance."
+  },
+  {
+    "url": "https://www.imore.com/iphone/hold-on-samsung-s23-apple-has-the-best-smartphone-of-2023-already-its-iphone-15",
+    "description": "User perspectives on the Apple iPhone 15, discussing its camera quality, design, and integration within the Apple ecosystem."
+  }
+]
+``` 

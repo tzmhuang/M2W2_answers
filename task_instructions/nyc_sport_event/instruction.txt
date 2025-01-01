@@ -1,0 +1,1 @@
+Find two upcoming sports events in New York City scheduled within the next month. For each event, include its location, date and time, a link to ticketing information, and an estimate of the travel time to the venue from 485 Marin Blvd, Jersey City, NJ via public transportation.

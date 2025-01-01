@@ -1,0 +1,1 @@
+I am designing a meal plan and I am allergic to nuts. Can you curate a 3 different recipes for lunch and dinner each that does not include any nuts? For each recipe specify if it is for lunch or dinner, and list its estimated cooking time and list the ingredients needed.

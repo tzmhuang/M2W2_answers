@@ -1,0 +1,1 @@
+List three national parks in the United States that is outside Ohio and have been recognized as UNESCO World Heritage Sites. For each park, get a nearby commercial airport, and the time it takes to fly to the that airport from John Glenn International Airport (CMH).
