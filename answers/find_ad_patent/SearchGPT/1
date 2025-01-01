@@ -1,0 +1,57 @@
+Here are five patents in the field of autonomous driving filed in 2024:
+
+1. **Adaptive Object-Based Decision-Making System**  
+   - **Inventors**: Not specified in the available source.  
+   - **Organization**: Cyngn Inc.  
+   - **Date of Filing**: July 16, 2024  
+   - **Link**: [Google Patents](https://patents.google.com/patent/US12039867B2)  
+   - **Description**: This patent introduces a method to enhance the performance of autonomous vehicles (AVs) in real-world environments. It enables AVs to detect objects and make informed decisions on interacting with them safely, such as navigating around slow-moving barriers, cyclists, and blind spots near large vehicles. The system integrates specific driving rules with broader traffic regulations to ensure compliance with legal requirements on the road. 
+
+2. **Adaptive Motion Compensation of Perception Channels**  
+   - **Inventors**: Not specified in the available source.  
+   - **Organization**: Cyngn Inc.  
+   - **Date of Filing**: July 9, 2024  
+   - **Link**: [Google Patents](https://patents.google.com/patent/US12032099B2)  
+   - **Description**: This patent covers methods to enhance the performance of autonomous vehicles by compensating for motion in perception channels, improving the accuracy of sensor data interpretation during vehicle movement. 
+
+3. **Predicting Three-Dimensional Features for Autonomous Driving**  
+   - **Inventors**: Ashok Kumar Elluswamy, Matthew Bauch, Christopher Payne, Andrej Karpathy, Dhaval Shroff, Arvind Ramanandan, James Robert Howard Hakewill  
+   - **Organization**: Tesla, Inc.  
+   - **Date of Filing**: October 14, 2021 (Granted on June 18, 2024)  
+   - **Link**: [Google Patents](https://patents.google.com/patent/US12014553B2)  
+   - **Description**: This patent involves using image data captured by a vehicle's camera as input to a trained machine learning model to predict a three-dimensional trajectory of a feature, aiding in the automatic control of the vehicle. 
+
+4. **System and Methods of Large-Scale Autonomous Driving Validation**  
+   - **Inventors**: Not specified in the available source.  
+   - **Organization**: Cyngn Inc.  
+   - **Date of Filing**: December 26, 2023  
+   - **Link**: [Google Patents](https://patents.google.com/patent/US11851074B2)  
+   - **Description**: This patent provides expanded safety features in identifying problems arising from autonomous vehicle driving operations and generating notification messages regarding these problems. 
+
+5. **Engaging and Disengaging for Autonomous Driving**  
+   - **Inventors**: Brian Douglas Cullinane, Philip Nemec, Manuel Christian Clement, Robertus Christianus Elisabeth Mariet, Lilli Ing-Marie Jonsson  
+   - **Organization**: Waymo LLC  
+   - **Date of Filing**: April 4, 2023 (Granted on December 17, 2024)  
+   - **Link**: [Google Patents](https://patents.google.com/patent/US12168448B2)  
+   - **Description**: This patent relates to switching between autonomous and manual driving modes. The vehicle's computer conducts environmental, system, and driver checks to identify certain conditions, correcting some and providing the driver with a checklist of tasks for completion before allowing mode switches. 
+
+**Provenance:**
+
+[
+  {
+    "url": "https://investors.cyngn.com/2024-10-16-Cyngn-Secures-its-21st-U-S-Patent-System-and-Methods-of-Adaptive-Object-based-Decision-Making-for-Autonomous-Driving",
+    "description": "Details about Cyngn's 21st U.S. patent, including the title and filing date."
+  },
+  {
+    "url": "https://patents.justia.com/inventor/andrej-karpathy",
+    "description": "Information on Tesla's patent 'Predicting Three-Dimensional Features for Autonomous Driving', including inventors and filing date."
+  },
+  {
+    "url": "https://www.cyngn.com/pr/cyngn-granted-19th-u.s.-patent-for-its-ai-powered-autonomous-vehicle-technologies",
+    "description": "Announcement of Cyngn's 19th U.S. patent, providing details on the patent's title and filing date."
+  },
+  {
+    "url": "https://patents.justia.com/assignee/waymo-llc",
+    "description": "Information on Waymo's patent 'Engaging and Disengaging for Autonomous Driving', including inventors and filing date."
+  }
+] 

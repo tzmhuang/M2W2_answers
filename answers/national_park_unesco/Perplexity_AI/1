@@ -1,0 +1,60 @@
+Final Answer:
+
+Three U.S. national parks outside Ohio that are UNESCO World Heritage Sites, along with nearby commercial airports and flight durations from John Glenn International Airport (CMH):
+
+1. Yellowstone National Park (Wyoming, Montana, Idaho)
+   Nearby airport: Bozeman Yellowstone International Airport (BZN)
+   Flight duration: Approximately 5 hours 16 minutes (connecting flight)
+
+2. Everglades National Park (Florida)
+   Nearby airport: Miami International Airport (MIA)
+   Flight duration: Approximately 2 hours 40 minutes (direct flight)
+
+3. Olympic National Park (Washington)
+   Nearby airport: Seattle-Tacoma International Airport (SEA)
+   Flight duration: Approximately 5 hours 24 minutes (connecting flight)
+
+Provenance:
+
+[
+  {
+    "url": "https://www.visittheusa.com/experience/world-heritage-sites-united-states",
+    "description": "Confirms Yellowstone National Park, Everglades National Park, and Olympic National Park as UNESCO World Heritage Sites in the United States."
+  },
+  {
+    "url": "https://www.wellplannedjourney.com/airports-near-yellowstone/",
+    "description": "Identifies Bozeman Yellowstone International Airport (BZN) as one of the closest airports to Yellowstone National Park."
+  },
+  {
+    "url": "https://www.national-park.com/5-closest-airports-to-everglades-national-park/",
+    "description": "Lists Miami International Airport (MIA) as the closest airport to Everglades National Park, approximately 45 miles northeast of the park."
+  },
+  {
+    "url": "https://www.national-park.com/the-5-closest-airports-to-olympic-national-park/",
+    "description": "Recommends Seattle-Tacoma International Airport (SEA) as the best option for flying to Olympic National Park."
+  },
+  {
+    "url": "https://www.travelmath.com/flying-time/from/CMH/to/MIA",
+    "description": "Provides the flight duration from Columbus (CMH) to Miami (MIA) as 2 hours, 40 minutes for a direct flight."
+  },
+  {
+    "url": "https://www.trip.com/hot/flight-time-from-columbus-to-seattle/",
+    "description": "Shows the flight duration from Columbus (CMH) to Seattle (SEA) as approximately 5 hours 24 minutes for connecting flights."
+  },
+  {
+    "url": "https://www.travelmath.com/flying-time/from/Columbus,+OH/to/Seattle,+WA",
+    "description": "Confirms the flight duration from Columbus to Seattle as approximately 4 hours 32 minutes, which aligns with the connecting flight time when accounting for layovers."
+  }
+]
+
+Citations:
+[1] https://www.visittheusa.com/experience/world-heritage-sites-united-states
+[2] https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_the_United_States
+[3] https://www.wellplannedjourney.com/airports-near-yellowstone/
+[4] https://www.national-park.com/5-closest-airports-to-everglades-national-park/
+[5] https://www.national-park.com/the-5-closest-airports-to-olympic-national-park/
+[6] https://www.travelmath.com/flying-time/from/CMH/to/MIA
+[7] https://www.trip.com/hot/flight-time-from-columbus-to-seattle/
+[8] https://www.afar.com/magazine/national-parks-in-the-united-states-that-are-also-world-heritage-sites
+[9] https://www.travelmath.com/flying-time/from/Columbus,+OH/to/Seattle,+WA
+[10] https://2009-2017.state.gov/p/io/unesco/c48319.htm

@@ -1,0 +1,51 @@
+Here are six widely used protein visualization software tools in structural biology:
+
+1. **PyMOL**:
+   - **Developer**: Schrödinger, Inc.
+   - **Supported Operating Systems**: Windows, macOS, Linux, Unix
+   - **Official Website**: [https://pymol.org/](https://pymol.org/)
+   - **Cost**: Commercial product with freely available source code under a permissive license; precompiled executables require a purchased license. 
+
+2. **UCSF Chimera**:
+   - **Developer**: Resource for Biocomputing, Visualization, and Informatics (RBVI), University of California, San Francisco
+   - **Supported Operating Systems**: Windows, macOS, Linux
+   - **Official Website**: [https://www.rbvi.ucsf.edu/chimera/](https://www.rbvi.ucsf.edu/chimera/)
+   - **Cost**: Free for non-commercial use. 
+
+3. **VMD (Visual Molecular Dynamics)**:
+   - **Developer**: Theoretical and Computational Biophysics Group, University of Illinois at Urbana-Champaign
+   - **Supported Operating Systems**: Windows, macOS, Linux, Unix
+   - **Official Website**: [https://www.ks.uiuc.edu/Research/vmd/](https://www.ks.uiuc.edu/Research/vmd/)
+   - **Cost**: Distributed free of charge, including source code. 
+
+4. **Jmol**:
+   - **Developer**: Jmol development team
+   - **Supported Operating Systems**: Cross-platform (requires Java)
+   - **Official Website**: [http://www.jmol.org/](http://www.jmol.org/)
+   - **Cost**: Free and open-source under the GNU Lesser General Public License (LGPL) version 2.0. 
+
+5. **Avogadro**:
+   - **Developer**: OpenChemistry
+   - **Supported Operating Systems**: Windows, macOS, Linux
+   - **Official Website**: [https://avogadro.cc/](https://avogadro.cc/)
+   - **Cost**: Free and open-source under the GNU General Public License (GPL) version 2. 
+
+6. **LiteMol**:
+   - **Developer**: LiteMol Team
+   - **Supported Operating Systems**: Web-based; compatible with modern browsers (e.g., Chrome, Firefox, Safari)
+   - **Official Website**: [https://litemol.org/](https://litemol.org/)
+   - **Cost**: Free and open-source. 
+
+These tools offer a range of features for visualizing and analyzing protein structures, catering to different needs in structural biology.
+
+Provenance:
+
+- {"url": "https://pymol.org/", "description": "Official website of PyMOL, providing information on its features, supported operating systems, and licensing."}
+- {"url": "https://en.wikipedia.org/wiki/PyMOL", "description": "Wikipedia page detailing PyMOL's development history, licensing, and platform compatibility."}
+- {"url": "https://www.rbvi.ucsf.edu/chimera/", "description": "Official website of UCSF Chimera, offering details on its capabilities, supported platforms, and usage terms."}
+- {"url": "https://en.wikipedia.org/wiki/UCSF_Chimera", "description": "Wikipedia entry providing an overview of UCSF Chimera, including developer information and operating system support."}
+- {"url": "https://www.ks.uiuc.edu/Research/vmd/", "description": "Official page for VMD, outlining its features, operating system compatibility, and distribution terms."}
+- {"url": "https://en.wikipedia.org/wiki/Jmol", "description": "Wikipedia article on Jmol, discussing its development, platform support, and licensing."}
+- {"url": "https://avogadro.cc/", "description": "Official website of Avogadro, detailing its functionalities, supported operating systems, and open-source nature."}
+- {"url": "https://en.wikipedia.org/wiki/Avogadro_(software)", "description": "Wikipedia page about Avogadro, providing information on its development, platform compatibility, and licensing."}
+- {"url": "https://medevel.com/15-3d-molecular-protein-modelling/", "description": "Article listing open-source web-based 3D molecular and protein modeling software, including LiteMol, with details on their features and accessibility."} 
