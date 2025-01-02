@@ -58,4 +58,4 @@ Please annotate the answers according to the following guidelines.
 
 5. Your judgment should only be based on the information provided by the task instructions, ground truth (if provided), and the answers provided.
 
-6. Please also provide a brief justifications of your final annotation.
+6. Please provide justifications for your final annotation. If an entity is marked as incorrect, justify your annotation by listing all issues with the entity. For easier data parsing later, prefix each justification with the entity's order in the answer and separate the justifications for each entity using a semicolon (';').
