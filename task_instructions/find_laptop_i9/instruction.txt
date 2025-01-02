@@ -1,1 +1,1 @@
-Generate a list of 4 different laptops models released in the last year that are equipped with the Intel Core i9 processor. For each laptop, provide the brand, processor model, amount of RAM, primary GPU model, and a link to a purchasing page.
+Generate a list of 4 laptops from different brands released in 2024 that are equipped with the Intel Core i9 processor. For each laptop, provide the brand, processor model, amount of RAM, primary GPU model, and a link to a purchasing page.
