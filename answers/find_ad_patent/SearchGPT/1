@@ -1,57 +1,38 @@
-Here are five patents in the field of autonomous driving filed in 2024:
+Here are three patents in the field of autonomous driving published in 2024:
 
-1. **Adaptive Object-Based Decision-Making System**  
-   - **Inventors**: Not specified in the available source.  
-   - **Organization**: Cyngn Inc.  
-   - **Date of Filing**: July 16, 2024  
-   - **Link**: [Google Patents](https://patents.google.com/patent/US12039867B2)  
-   - **Description**: This patent introduces a method to enhance the performance of autonomous vehicles (AVs) in real-world environments. It enables AVs to detect objects and make informed decisions on interacting with them safely, such as navigating around slow-moving barriers, cyclists, and blind spots near large vehicles. The system integrates specific driving rules with broader traffic regulations to ensure compliance with legal requirements on the road. 
+1. **Systems and Methods Related to Autonomous Driving Data Processing**
+   - **Inventors**: James Andrew Bagnell, Arun Venkatraman, Sanjiban Choudhury, Venkatraman Narayanan
+   - **Organization**: Aurora Operations, Inc.
+   - **Date of Filing**: December 17, 2021
+   - **Google Patents Link**: [US20240300525A1](https://patents.google.com/patent/US20240300525A1/en)
 
-2. **Adaptive Motion Compensation of Perception Channels**  
-   - **Inventors**: Not specified in the available source.  
-   - **Organization**: Cyngn Inc.  
-   - **Date of Filing**: July 9, 2024  
-   - **Link**: [Google Patents](https://patents.google.com/patent/US12032099B2)  
-   - **Description**: This patent covers methods to enhance the performance of autonomous vehicles by compensating for motion in perception channels, improving the accuracy of sensor data interpretation during vehicle movement. 
+2. **An Autonomous Vehicle Intelligent Driving System with Re-distribution of Driving Tasks**
+   - **Inventors**: Bin Ran, Renfei Wu, Xiaoying Yi, Zhi Zhou, Junwei You, Eric Ran, Yang Cheng, Tianyi Chen, Shen Li, Jing Jin, Xiaoxuan Chen, Fan Ding, Zhen Zhang
+   - **Organization**: CAVH LLC
+   - **Date of Filing**: March 4, 2024
+   - **Google Patents Link**: [US20240203247A1](https://patents.google.com/patent/US20240203247A1/en)
 
-3. **Predicting Three-Dimensional Features for Autonomous Driving**  
-   - **Inventors**: Ashok Kumar Elluswamy, Matthew Bauch, Christopher Payne, Andrej Karpathy, Dhaval Shroff, Arvind Ramanandan, James Robert Howard Hakewill  
-   - **Organization**: Tesla, Inc.  
-   - **Date of Filing**: October 14, 2021 (Granted on June 18, 2024)  
-   - **Link**: [Google Patents](https://patents.google.com/patent/US12014553B2)  
-   - **Description**: This patent involves using image data captured by a vehicle's camera as input to a trained machine learning model to predict a three-dimensional trajectory of a feature, aiding in the automatic control of the vehicle. 
+3. **Predicting Three-Dimensional Features for Autonomous Driving**
+   - **Inventors**: Information not available in the provided data
+   - **Organization**: Tesla, Inc.
+   - **Date of Filing**: May 16, 2024
+   - **Google Patents Link**: [US20240304003A1](https://patents.google.com/patent/US20240304003A1/en)
 
-4. **System and Methods of Large-Scale Autonomous Driving Validation**  
-   - **Inventors**: Not specified in the available source.  
-   - **Organization**: Cyngn Inc.  
-   - **Date of Filing**: December 26, 2023  
-   - **Link**: [Google Patents](https://patents.google.com/patent/US11851074B2)  
-   - **Description**: This patent provides expanded safety features in identifying problems arising from autonomous vehicle driving operations and generating notification messages regarding these problems. 
+**Provenance**:
 
-5. **Engaging and Disengaging for Autonomous Driving**  
-   - **Inventors**: Brian Douglas Cullinane, Philip Nemec, Manuel Christian Clement, Robertus Christianus Elisabeth Mariet, Lilli Ing-Marie Jonsson  
-   - **Organization**: Waymo LLC  
-   - **Date of Filing**: April 4, 2023 (Granted on December 17, 2024)  
-   - **Link**: [Google Patents](https://patents.google.com/patent/US12168448B2)  
-   - **Description**: This patent relates to switching between autonomous and manual driving modes. The vehicle's computer conducts environmental, system, and driver checks to identify certain conditions, correcting some and providing the driver with a checklist of tasks for completion before allowing mode switches. 
-
-**Provenance:**
-
+```json
 [
   {
-    "url": "https://investors.cyngn.com/2024-10-16-Cyngn-Secures-its-21st-U-S-Patent-System-and-Methods-of-Adaptive-Object-based-Decision-Making-for-Autonomous-Driving",
-    "description": "Details about Cyngn's 21st U.S. patent, including the title and filing date."
+    "url": "https://patents.google.com/patent/US20240300525A1/en",
+    "description": "Patent US20240300525A1 titled 'Systems and Methods Related to Autonomous Driving Data Processing', filed on December 17, 2021, by inventors James Andrew Bagnell, Arun Venkatraman, Sanjiban Choudhury, and Venkatraman Narayanan, assigned to Aurora Operations, Inc."
   },
   {
-    "url": "https://patents.justia.com/inventor/andrej-karpathy",
-    "description": "Information on Tesla's patent 'Predicting Three-Dimensional Features for Autonomous Driving', including inventors and filing date."
+    "url": "https://patents.google.com/patent/US20240203247A1/en",
+    "description": "Patent US20240203247A1 titled 'An Autonomous Vehicle Intelligent Driving System with Re-distribution of Driving Tasks', filed on March 4, 2024, by inventors Bin Ran, Renfei Wu, Xiaoying Yi, Zhi Zhou, Junwei You, Eric Ran, Yang Cheng, Tianyi Chen, Shen Li, Jing Jin, Xiaoxuan Chen, Fan Ding, and Zhen Zhang, assigned to CAVH LLC."
   },
   {
-    "url": "https://www.cyngn.com/pr/cyngn-granted-19th-u.s.-patent-for-its-ai-powered-autonomous-vehicle-technologies",
-    "description": "Announcement of Cyngn's 19th U.S. patent, providing details on the patent's title and filing date."
-  },
-  {
-    "url": "https://patents.justia.com/assignee/waymo-llc",
-    "description": "Information on Waymo's patent 'Engaging and Disengaging for Autonomous Driving', including inventors and filing date."
+    "url": "https://patents.google.com/patent/US20240304003A1/en",
+    "description": "Patent US20240304003A1 titled 'Predicting Three-Dimensional Features for Autonomous Driving', filed on May 16, 2024, assigned to Tesla, Inc."
   }
-] 
+]
+``` 
