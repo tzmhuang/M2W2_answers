@@ -1,1 +1,1 @@
-Find three patents in the field of autonomous driving filed in 2024. For each patent, include the title, the inventors' names, the organization, the date of filing, and a link to the corresponding google patent page.
+Find three patents in the field of autonomous driving published in 2024. For each patent, include the title, the inventors' names, the organization, the date of filing, and a link to the corresponding google patent page.
